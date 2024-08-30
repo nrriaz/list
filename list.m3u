@@ -17,6 +17,9 @@ http://172.20.2.5:8082/SONY-TEN-2/tracks-v1a1/mono.m3u8?token=a8411a37ec14bfa528
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2031667728117.png" group-title="Sports", Sony Sports 3
 http://172.20.2.5:8082/SONY-TEN-3/tracks-v1a1/mono.m3u8?token=9a69202fff82249aa313bcec58d7e3b251d3a3aa-9e46f5df42ef15c75cc646b8ce5a0f2e-1725050416-1725039616
 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-31536.logowik.com.webp" group-title="Sports", Bein Sports 3
+http://172.20.2.5:8082/STAR-GOLD/tracks-v1a1/mono.m3u8?token=097e662d8c322c047f5490eeafc25e05c05b371d-71fabc73bf55e33d398fb65db71f4be4-1725054995-1725044195
+
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Star%20Sports%2011667750523.png" group-title="Sports", Star Sports 1
 http://172.20.2.5:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8?token=3d73874d77093210e5f853748d081be1914c16c6-5e71d697164b6041c0eeb51cafc0dea2-1725050488-1725039688
 
@@ -81,9 +84,6 @@ http://172.20.2.5:8082/MASTI/tracks-v1a1/mono.m3u8?token=eeea9cb952d2d0d978964ff
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Star%20Movies1667751377.png" group-title="Hindi", Star Movies 
 http://172.20.2.5:8082/STAR-MOVIE/tracks-v1a1/mono.m3u8?token=d79681eeaa28d6bbe86b08f28f1631e9dcc7f9bb-f11f389e515deeb77dd6a8b5a7901fd3-1725055016-1725044216
-
-#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Star%20Gold1667751269.png" group-title="Hindi", Star Gold
-http://172.20.2.5:8082/STAR-GOLD/tracks-v1a1/mono.m3u8?token=097e662d8c322c047f5490eeafc25e05c05b371d-71fabc73bf55e33d398fb65db71f4be4-1725054995-1725044195
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Romedy%20Now1689427170.png" group-title="Hindi", Romedy Now
 http://172.20.2.5:8082/MOVIE-NOW/tracks-v1a1/mono.m3u8?token=162436abfb20a313bdf82279f59a32e0e90c712b-1f77133a8638f49cddf9fa95ac06aa34-1725055154-1725044354
