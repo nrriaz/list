@@ -12,7 +12,7 @@ http://172.20.2.5:8082/GTV/tracks-v1a1/mono.m3u8?token=e797587168f53ed01a475047f
 http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8?token=dde449ad13cc90349f8a4efcd4d26360224d8948-b73d88eb35e57f6b4975f2d742945068-1725060897-1725050097
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2021667728105.png" group-title="Sports", Sony Sports 2
-http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8?token=dde449ad13cc90349f8a4efcd4d26360224d8948-b73d88eb35e57f6b4975f2d742945068-1725060897-1725050097
+http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2031667728117.png" group-title="Sports", Sony Sports 3
 http://172.20.2.5:8082/SONY-TEN-3/tracks-v1a1/mono.m3u8?token=9a69202fff82249aa313bcec58d7e3b251d3a3aa-9e46f5df42ef15c75cc646b8ce5a0f2e-1725050416-1725039616
