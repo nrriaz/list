@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/TSports%2021668953490.png" group-title="Sports", Live Sports
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/live.png" group-title="Sports", Live Sports
 http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8?token=915ee36243ad9c37c4f96026ab0f262f02ad0a62-84d2559c0580f8d832b0b59b153d64da-1725047154-1725036354
 
-#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/GTV%2031670253750.png" group-title="Sports", T Sports
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/TSports%2021668953490.png" group-title="Sports", T Sports
 http://172.20.2.5:8082/T-SPORTS/index.m3u8?token=3bdd3a4f9bb6634f8a309f60c8e4d079db919923-edf7bde07f65d8e70c041c601404ca46-1725047285-1725036485
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/GTV%2031670253750.png" group-title="Sports", GTV
 http://172.20.2.5:8082/GTV/index.m3u8?token=ff9f6abfa380f46d3a571fe317f4ae6ca30bbc5c-9f706a14b4bfcf33fc2106eeb0c6c1b3-1725047337-1725036537
 
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2011667728321.png" group-title="Sports", Jamuna TV
+http://172.20.2.5:8082/SONY-TEN-1/index.m3u8?token=8ad5bcdebe72d2bb45ab3d9f0a9cb8a615b330fa-8aa00520bde208859da606b1be001683-1725047822-1725037022
 
