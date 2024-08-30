@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/live.png" group-title="Sports", Live Sports
-http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8?token=915ee36243ad9c37c4f96026ab0f262f02ad0a62-84d2559c0580f8d832b0b59b153d64da-1725047154-1725036354
+http://172.20.2.5:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8?token=8b62e1fd1cbe066f3f72720425fc1b42499ee103-a8b49f08270a87b424b952538eea75b5-1725058391-1725047591
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/TSports%2021668953490.png" group-title="Sports", T Sports
-http://172.20.2.5:8082/T-SPORTS/index.m3u8?token=3bdd3a4f9bb6634f8a309f60c8e4d079db919923-edf7bde07f65d8e70c041c601404ca46-1725047285-1725036485
+http://172.20.2.5:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=17452d5279c129794d1e35b269a7c6e937850161-a138251659dbbe0ba0eb1bf4dc9ff195-1725058411-1725047611
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/GTV%2031670253750.png" group-title="Sports", GTV
-http://172.20.2.5:8082/GTV/index.m3u8?token=ff9f6abfa380f46d3a571fe317f4ae6ca30bbc5c-9f706a14b4bfcf33fc2106eeb0c6c1b3-1725047337-1725036537
+http://172.20.2.5:8082/GTV/tracks-v1a1/mono.m3u8?token=e797587168f53ed01a475047f109d15f6d076921-1309332ca079998eef751dc4df1b2fbb-1725058435-1725047635
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2011667728321.png" group-title="Sports", Sony Sports 1
 http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8?token=8ad5bcdebe72d2bb45ab3d9f0a9cb8a615b330fa-8aa00520bde208859da606b1be001683-1725047822-1725037022
@@ -48,14 +48,14 @@ http://172.20.2.5:8082/NGO-GEROPHY/tracks-v1a1/mono.m3u8?token=eb1d9ce50e7befc77
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/DW%20TV1664825583.png" group-title="Others", DW
 http://172.20.2.5:8082/DW-NEWS/tracks-v1a1/mono.m3u8?token=821d2c515d606dbe3944ba990adf49e7bfca2f20-1a38be2eadea9e24007824d213a185f6-1725051629-1725040829
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:2018_Animal_Planet_logo.svg" group-title="Others", Animal Planet
+#EXTINF:-1 tvg-logo="https://d3faj0w6aqatyx.cloudfront.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="Others", Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Cartoon_Network_2010_logo.svg" group-title="Kids", CN+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/Cartoon_Network-logo-52C61AE091-seeklogo.com.png" group-title="Kids", CN+
 http://172.20.2.5:8082/CN-NETWORK/tracks-v1a1/mono.m3u8?token=56f0a72f66469f0ed46ed97db37a5f0d7b258805-6f7a0eeb9549c46aa6544400f4fc2faf-1725054129-1725043329
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Discovery_Kids_Logo_2021-Presente.webp" group-title="Kids", Discovery Kids
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-kids-brasil-logo-A22D5B835B-seeklogo.com.png" group-title="Kids", Discovery Kids
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
 
