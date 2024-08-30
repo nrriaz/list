@@ -15,7 +15,7 @@ http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/SONY-TEN-2/tracks-v1a1/mono.m3u8?token=7cd13872ab66f75dd439d783c845fa9a5a6bf064-cfc92e1a1bae1ce7c1d1f18d3c75e9fc-1725061938-1725051138
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2031667728117.png" group-title="Sports", Sony Sports 3
-http://172.20.2.5:8082/SONY-TEN-3/tracks-v1a1/mono.m3u8
+http://172.20.2.5:8082/SONY-TEN-3/tracks-v1a1/mono.m3u8?token=0a0c48e58ab0a121c5dd9ba73c59e914b4d2d479-0e28590c806ee26ee13ed49f966640c9-1725062126-1725051326
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-31536.logowik.com.webp" group-title="Sports", Bein Sports 3
 http://172.20.2.5:8082/STAR-GOLD/tracks-v1a1/mono.m3u8
