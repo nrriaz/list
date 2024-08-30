@@ -15,7 +15,7 @@ http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8?token=c235a4985d21e62fb0
 http://172.20.2.5:8082/SONY-TEN-2/tracks-v1a1/mono.m3u8?token=00332543f39353e66985fed4a44e09367506dcb4-442f74bf0f2c0ee0b0c5f32375b8d6a0-1725061139-1725050339
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2031667728117.png" group-title="Sports", Sony Sports 3
-http://172.20.2.5:8082/SONY-TEN-3/tracks-v1a1/mono.m3u8?token=d96c5427efa5cf93e377460bb50d917e0a215130-d5417780425866b9af8ea374f99199c8-1725061167-1725050367
+http://172.20.2.5:8082/SONY-TEN-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-31536.logowik.com.webp" group-title="Sports", Bein Sports 3
 http://172.20.2.5:8082/STAR-GOLD/tracks-v1a1/mono.m3u8?token=097e662d8c322c047f5490eeafc25e05c05b371d-71fabc73bf55e33d398fb65db71f4be4-1725054995-1725044195
