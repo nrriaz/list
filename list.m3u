@@ -137,6 +137,9 @@ http://172.20.2.5:8082/STAR-JALSHA/tracks-v1a1/mono.m3u8?token=d6fe9e83aceff75d5
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Zee%20Bangla1664976875.png" group-title="Bangla", Zee Bangla
 http://172.20.2.5:8082/ZEE-BANGLA/tracks-v1a1/mono.m3u8?token=0934f4887dc954259c33418008699c9b9d7a41a9-c28a5e222384da931eb14dde14d984cd-1725056826-1725046026
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Indian Bangla", Zee Bangla HD(c)
+http://192.168.0.103:30001/proxy/pMA6Je5i/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Jalsha%20Movies1664976818.png" group-title="Bangla", Jalsha Movies
 http://172.20.2.5:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8?token=178c20c3190a77a8c237fdbfb5d49c13ee8028cc-afda079547729cd1dc4f2e45cc2827f4-1725056868-1725046068
 
