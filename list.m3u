@@ -34,6 +34,9 @@ http://172.20.2.5:8082/SPL-2/tracks-v1a1/mono.m3u8?token=126335232fec89d716bae73
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Discovery1664975007.png" group-title="Others", Discovery
 http://172.20.2.5:8082/DISCOVERY/tracks-v1a1/mono.m3u8?token=8d041e653c3f62037358e621aa913860feaf274a-36bdc7eb854e71b4e09c67c94a6ee385-1725051447-1725040647
 
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Discovery1664975007.png" group-title="Others", Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/National%20Geography1664975151.png" group-title="Others", National Geographic 
 http://172.20.2.5:8082/NGO-GEROPHY/tracks-v1a1/mono.m3u8?token=eb1d9ce50e7befc773fd375e8d425f8720426e0f-3891d396fcf375c3d91777d65a950f3f-1725051524-1725040724
@@ -42,5 +45,14 @@ http://172.20.2.5:8082/NGO-GEROPHY/tracks-v1a1/mono.m3u8?token=eb1d9ce50e7befc77
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/DW%20TV1664825583.png" group-title="Others", DW
 http://172.20.2.5:8082/DW-NEWS/tracks-v1a1/mono.m3u8?token=821d2c515d606dbe3944ba990adf49e7bfca2f20-1a38be2eadea9e24007824d213a185f6-1725051629-1725040829
 
-#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Discovery1664975007.png" group-title="Others", Discovery 2
-http://172.20.2.5:8082/DISCOVERY/tracks-v1a1/mono.m3u8?token=e225e2f839df93e1aa98c2fcb1c83868203654d7-b18c78d65f039e5027c1d4c088954be7-1725051847-1725041047
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:2018_Animal_Planet_logo.svg" group-title="Others", Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Cartoon_Network_2010_logo.svg" group-title="Kids", CN+
+http://172.20.2.5:8082/CN-NETWORK/tracks-v1a1/mono.m3u8?token=56f0a72f66469f0ed46ed97db37a5f0d7b258805-6f7a0eeb9549c46aa6544400f4fc2faf-1725054129-1725043329
+
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Discovery_Kids_Logo_2021-Presente.webp" group-title="Kids", Discovery Kids
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+
+
