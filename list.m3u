@@ -12,7 +12,7 @@ http://172.20.2.5:8082/GTV/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2021667728105.png" group-title="Sports", Sony Sports 2
-http://172.20.2.5:8082/SONY-TEN-2/tracks-v1a1/mono.m3u8
+http://172.20.2.5:8082/SONY-TEN-2/tracks-v1a1/mono.m3u8?token=7cd13872ab66f75dd439d783c845fa9a5a6bf064-cfc92e1a1bae1ce7c1d1f18d3c75e9fc-1725061938-1725051138
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2031667728117.png" group-title="Sports", Sony Sports 3
 http://172.20.2.5:8082/SONY-TEN-3/tracks-v1a1/mono.m3u8
