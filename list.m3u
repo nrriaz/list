@@ -30,3 +30,17 @@ http://172.20.2.5:8082/SPL-1/tracks-v1a1/mono.m3u8?token=e6f83080fb16dbb07d3b78e
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Star%20Sports%20Select%2021667750897.png" group-title="Sports", Star Select 2
 http://172.20.2.5:8082/SPL-2/tracks-v1a1/mono.m3u8?token=126335232fec89d716bae736094bc27f88348b43-7cfa9758cf4d79935dc8db6312bf0574-1725050851-1725040051
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Discovery1664975007.png" group-title="Others", Discovery
+http://172.20.2.5:8082/DISCOVERY/tracks-v1a1/mono.m3u8?token=8d041e653c3f62037358e621aa913860feaf274a-36bdc7eb854e71b4e09c67c94a6ee385-1725051447-1725040647
+
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/National%20Geography1664975151.png" group-title="Others", National Geographic 
+http://172.20.2.5:8082/NGO-GEROPHY/tracks-v1a1/mono.m3u8?token=eb1d9ce50e7befc773fd375e8d425f8720426e0f-3891d396fcf375c3d91777d65a950f3f-1725051524-1725040724
+
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/DW%20TV1664825583.png" group-title="Others", DW
+http://172.20.2.5:8082/DW-NEWS/tracks-v1a1/mono.m3u8?token=821d2c515d606dbe3944ba990adf49e7bfca2f20-1a38be2eadea9e24007824d213a185f6-1725051629-1725040829
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Discovery1664975007.png" group-title="Others", Discovery 2
+http://172.20.2.5:8082/DISCOVERY/tracks-v1a1/mono.m3u8?token=e225e2f839df93e1aa98c2fcb1c83868203654d7-b18c78d65f039e5027c1d4c088954be7-1725051847-1725041047
