@@ -9,10 +9,10 @@ http://172.20.2.5:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=17452d5279c129794d1e
 http://172.20.2.5:8082/GTV/tracks-v1a1/mono.m3u8?token=e797587168f53ed01a475047f109d15f6d076921-1309332ca079998eef751dc4df1b2fbb-1725058435-1725047635
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2011667728321.png" group-title="Sports", Sony Sports 1
-http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8?token=8ad5bcdebe72d2bb45ab3d9f0a9cb8a615b330fa-8aa00520bde208859da606b1be001683-1725047822-1725037022
+http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8?token=dde449ad13cc90349f8a4efcd4d26360224d8948-b73d88eb35e57f6b4975f2d742945068-1725060897-1725050097
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2021667728105.png" group-title="Sports", Sony Sports 2
-http://172.20.2.5:8082/SONY-TEN-2/tracks-v1a1/mono.m3u8?token=a8411a37ec14bfa528deb8181502cc946039367b-d4586cf6125fb7ac56149956444f4bb4-1725049791-1725038991
+http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8?token=dde449ad13cc90349f8a4efcd4d26360224d8948-b73d88eb35e57f6b4975f2d742945068-1725060897-1725050097
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20TEN%2031667728117.png" group-title="Sports", Sony Sports 3
 http://172.20.2.5:8082/SONY-TEN-3/tracks-v1a1/mono.m3u8?token=9a69202fff82249aa313bcec58d7e3b251d3a3aa-9e46f5df42ef15c75cc646b8ce5a0f2e-1725050416-1725039616
