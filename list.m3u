@@ -89,7 +89,7 @@ http://172.20.2.5:8082/STAR-MOVIE/tracks-v1a1/mono.m3u8?token=d79681eeaa28d6bbe8
 http://172.20.2.5:8082/MOVIE-NOW/tracks-v1a1/mono.m3u8?token=162436abfb20a313bdf82279f59a32e0e90c712b-1f77133a8638f49cddf9fa95ac06aa34-1725055154-1725044354
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20Pix%20HD1667728093.png" group-title="Hindi", Sony Pix
-http://172.20.2.5:8082/MOVIE-NOW/tracks-v1a1/mono.m3u8?token=162436abfb20a313bdf82279f59a32e0e90c712b-1f77133a8638f49cddf9fa95ac06aa34-1725055154-1725044354
+http://172.20.2.5:8082/SONY-PIX/index.m3u8?token=67c1b2257b45945a6dc729fb7a1faa45ee612e6f-5a386891788032de0712fea60d215d75-1725060639-1725049839
 
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/SomoyTV1689411430.png" group-title="Bangla", Somoy 
 http://172.20.2.5:8082/SOMOY-NEWS/tracks-v1a1/mono.m3u8?token=20daa8421b1ea20e13d5c7bea5c9dfba962ce5e4-9800f696542348e03211b2963109fee8-1725055626-1725044826
