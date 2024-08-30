@@ -56,3 +56,38 @@ http://172.20.2.5:8082/CN-NETWORK/tracks-v1a1/mono.m3u8?token=56f0a72f66469f0ed4
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Zee%20Cinema%20HD1664974056.png" group-title="Hindi", Zee Cinema
+http://172.20.2.5:8082/ZEE-CINEMA/tracks-v1a1/mono.m3u8?token=cc3c27a43905039929b717f6ea9ff02760185e41-bf137b0cbc136df21051f9a3efe041dd-1725054402-1725043602
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Colors%20TV%20HD1664974042.png" group-title="Hindi", Colors
+http://172.20.2.5:8082/COLORS-HIN/tracks-v1a1/mono.m3u8?token=89b4fa3e3f5da824b82bb6b6b4d78a645ff9c47a-4c56b7fc13de0193902faa3d7ed8f37e-1725054629-1725043829
+
+
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Star%20Plus1667751169.png" group-title="Hindi", Star Plus
+http://172.20.2.5:8082/STAR-PLUS/tracks-v1a1/mono.m3u8?token=e957401ee55623d89294f44dd84dc464f25a0599-8f0fb517468a5e3483e41ed909358cf9-1725054687-1725043887
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/And%20Picture1664973301.png" group-title="Hindi", & Pictures
+http://172.20.2.5:8082/AND-PICTURE/tracks-v1a1/mono.m3u8?token=2adab32ad1a3ffe6c7a0398f5e8c107e3cf703bb-d08bd863f47c4a4e3915d79837eee119-1725054732-1725043932
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20Entertainment1667728144.png" group-title="Hindi", Sony Entertainment 
+http://172.20.2.5:8082/SONY-ENT/tracks-v1a1/mono.m3u8?token=da06037a8ce61fddb58fd56aea8b337cdb6a7e55-18ae4d95749d5257fc1e49e3dc92bbbc-1725054788-1725043988
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20Max%20HD1667728133.png" group-title="Hindi", Sony Max
+http://172.20.2.5:8082/SONY-MAX/tracks-v1a1/mono.m3u8?token=65e26b4ca5746e2d59f30323dd62ecd8003616ed-758aeec92588f9fb3ccef6ebbae14275-1725054846-1725044046
+
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Mastiii-TV_logo.jpg" group-title="Hindi", 83 Masti
+http://172.20.2.5:8082/MASTI/tracks-v1a1/mono.m3u8?token=eeea9cb952d2d0d978964ff316ee7a640aaf259e-7151eadbf34c0f6b43f7ca00ca5d6b7f-1725054976-1725044176
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Star%20Movies1667751377.png" group-title="Hindi", Star Movies 
+http://172.20.2.5:8082/STAR-MOVIE/tracks-v1a1/mono.m3u8?token=d79681eeaa28d6bbe86b08f28f1631e9dcc7f9bb-f11f389e515deeb77dd6a8b5a7901fd3-1725055016-1725044216
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Star%20Gold1667751269.png" group-title="Hindi", Star Gold
+http://172.20.2.5:8082/STAR-GOLD/tracks-v1a1/mono.m3u8?token=097e662d8c322c047f5490eeafc25e05c05b371d-71fabc73bf55e33d398fb65db71f4be4-1725054995-1725044195
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Romedy%20Now1689427170.png" group-title="Hindi", Romedy Now
+http://172.20.2.5:8082/MOVIE-NOW/tracks-v1a1/mono.m3u8?token=162436abfb20a313bdf82279f59a32e0e90c712b-1f77133a8638f49cddf9fa95ac06aa34-1725055154-1725044354
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20Pix%20HD1667728093.png" group-title="Hindi", Sony Pix
+http://172.20.2.5:8082/MOVIE-NOW/tracks-v1a1/mono.m3u8?token=162436abfb20a313bdf82279f59a32e0e90c712b-1f77133a8638f49cddf9fa95ac06aa34-1725055154-1725044354
+
