@@ -1,12 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/live.png" group-title="Sports", Live Sports
-http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8?token=5b82923b14ef53030e374582ce51ef0ef2cf899b-1d0a1e3db0b76d5b405a00c9e52601a4-1725044313-1725033513
-
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
-http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/TSports%2021668953490.png" group-title="Sports", T Sports
 http://172.20.2.5:8082/LIVE-SPORTS/index.m3u8?token=5b82923b14ef53030e374582ce51ef0ef2cf899b-1d0a1e3db0b76d5b405a00c9e52601a4-1725044313-1725033513
 
