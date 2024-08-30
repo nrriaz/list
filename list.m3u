@@ -91,3 +91,61 @@ http://172.20.2.5:8082/MOVIE-NOW/tracks-v1a1/mono.m3u8?token=162436abfb20a313bdf
 #EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20Pix%20HD1667728093.png" group-title="Hindi", Sony Pix
 http://172.20.2.5:8082/MOVIE-NOW/tracks-v1a1/mono.m3u8?token=162436abfb20a313bdf82279f59a32e0e90c712b-1f77133a8638f49cddf9fa95ac06aa34-1725055154-1725044354
 
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/SomoyTV1689411430.png" group-title="Bangla", Somoy 
+http://172.20.2.5:8082/SOMOY-NEWS/tracks-v1a1/mono.m3u8?token=20daa8421b1ea20e13d5c7bea5c9dfba962ce5e4-9800f696542348e03211b2963109fee8-1725055626-1725044826
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/independenttv.png" group-title="Bangla", Independent 
+http://172.20.2.5:8082/INDPENDENT-TV/tracks-v1a1/mono.m3u8?token=bff2677ca85ec082629c1f7b44ad5453e4443c42-17432a6410d255438a2fd6cb167e391a-1725055652-1725044852
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Masranga1667751530.png" group-title="Bangla", Masranga
+http://172.20.2.5:8082/MASRANGA-TV/tracks-v1a1/mono.m3u8?token=d44c4af849264eae12f141693f3029ea60e284e2-2cb13a1d4d1c95aa61b6cb431a624d6a-1725055766-1725044966
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Channel%20i1664976520.png" group-title="Bangla", Channel I
+http://172.20.2.5:8082/CHANNEL-I/tracks-v1a1/mono.m3u8?token=c57a3e5cb382e6706e4508801f3938caee1596a8-d583473b4b9396155fb6fee57e35da0c-1725055840-1725045040
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/DBC1664825292.png" group-title="Bangla", DBC 
+http://172.20.2.5:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=bb10d1cb748559bcd974ada277ebb4f2d3f09b9b-fa28fae1122b9a0c43eb39f1bc6a393a-1725055879-1725045079
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Ntv1664826430.png" group-title="Bangla", NTV 
+http://172.20.2.5:8082/NTV/tracks-v1a1/mono.m3u8?token=fcc3ddcb270824f8044f7ffa13c4f7338ef0ac95-56f50ea6b0b87313506fa6a8f9443d50-1725055949-1725045149
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/atnnews.png" group-title="Bangla", ATN News
+http://172.20.2.5:8082/ATN-NEWS/tracks-v1a1/mono.m3u8?token=0b64f2e9b28fc044fa17cd5cb4e4f7947955385c-4b87900648c1f6ae177bbf7514db5489-1725056008-1725045208
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/gaanbangla.png" group-title="Bangla", Gaan Bangla
+http://172.20.2.5:8082/GAN-BANGLA/tracks-v1a1/mono.m3u8?token=515e3b3927e881578178b478ed3f483de97aa763-82cafe811b55de88c2f17386c50de11f-1725056071-1725045271
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Jamuna%20Tv1664825738.png" group-title="Bangla", Jamuna TV 
+http://172.20.2.5:8082/JAMUNA-TV/tracks-v1a1/mono.m3u8?token=ca3467a19467065f3b9fe32f9996ec1b0dc5cd6c-627a0055f7fe57d154238cf23157ab51-1725056154-1725045354
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/atnbangla.png" group-title="Bangla", ATN Bangla 
+http://172.20.2.5:8082/ATN-BANGLA/tracks-v1a1/mono.m3u8?token=bee6b4258e3d7c6061b1b335a23251bc59e12e85-8c843ebd3514a5519c6033dc24e3e218-1725056239-1725045439
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Desh%20Tv1664825354.png" group-title="Bangla", Desh tv
+http://172.20.2.5:8082/BOISHAKI-TV/tracks-v1a1/mono.m3u8?token=ccc0ab55d1302dc9d2dcb5fdba367e6e7658fb60-a0e66083ce4bf3c5999172c7a62ce365-1725056311-1725045511
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/banglavision.png" group-title="Bangla", Bangla Vision
+http://172.20.2.5:8082/BANGLAVISION-TV/tracks-v1a1/mono.m3u8?token=2a96915160ab23120580ed0aaf32a20b417b1a01-9cdcbe332899bc2104fce20086cc1916-1725056404-1725045604
+
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Sony%20Aath1667728032.png" group-title="Bangla", Sony Aath 
+http://172.20.2.5:8082/SONY-ART/tracks-v1a1/mono.m3u8?token=e56d76651ef5f467921af2a516c14c10cc5321dd-895d350e96788bc487a4d7fe8ce19b4e-1725056636-1725045836
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Star%20Jalsha1664976894.png" group-title="Bangla", Star Jalsha
+http://172.20.2.5:8082/STAR-JALSHA/tracks-v1a1/mono.m3u8?token=d6fe9e83aceff75d5430f9ce114adb42847977bd-288b2683f163536cf2c9824f8742735b-1725056593-1725045793
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Zee%20Bangla1664976875.png" group-title="Bangla", Zee Bangla
+http://172.20.2.5:8082/ZEE-BANGLA/tracks-v1a1/mono.m3u8?token=0934f4887dc954259c33418008699c9b9d7a41a9-c28a5e222384da931eb14dde14d984cd-1725056826-1725046026
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Jalsha%20Movies1664976818.png" group-title="Bangla", Jalsha Movies
+http://172.20.2.5:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8?token=178c20c3190a77a8c237fdbfb5d49c13ee8028cc-afda079547729cd1dc4f2e45cc2827f4-1725056868-1725046068
+
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Colors%20Bangla1664976841.png" group-title="Bangla", Colors Bangla 
+http://172.20.2.5:8082/COLORS-BANGLA/tracks-v1a1/mono.m3u8?token=7702af4f488c394c9bbd9956257def6125692c90-c85f30fb9cb40317384eb5fad893c71b-1725056939-1725046139
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/sangeetbangla.png" group-title="Bangla", Sangeet Bangla
+http://172.20.2.5:8082/SANGIT-BANGLA/tracks-v1a1/mono.m3u8?token=136f5046c71e64383c4116893f0335d4e5936e30-a565a770ba368d5398a14ca258431439-1725056982-1725046182
+
+#EXTINF:-1 tvg-logo="http://www.bdixtv.live/we/assets/images/Zee%20Bangla%20Cinema1664976800.png" group-title="Bangla", Zee Bangla Cinema
+http://172.20.2.5:8082/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8?token=822b731bf0e628bc4e4ce7ca9fe26523816ae481-e9c7dabc3618e7fe6b3975a22df371f8-1725057041-1725046241
