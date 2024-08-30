@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:267
+#EXT-X-TARGETDURATION:4
+#EXTINF:4.000,
+https://m369.exultantz.net/live/v1/Kqo68-3crigmkQ+ufBdLTL4Nx8ZRjzqSlI83vM-lJZsc+muOMSRRungqEl9EbUiO/96262470.ico
+#EXTINF:4.000,
+https://m369.exultantz.net/live/v1/Kqo68-3crigmkQ+ufBdLTL4Nx8ZRjzqSlI83vM-lJZsc+muOMSRRungqEl9EbUiO/96622470.png
+#EXTINF:4.000,
+https://m369.exultantz.net/live/v1/Kqo68-3crigmkQ+ufBdLTL4Nx8ZRjzqSlI83vM-lJZsc+muOMSRRungqEl9EbUiO/96982470.webp
