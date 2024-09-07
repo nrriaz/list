@@ -34,3 +34,12 @@ http://172.20.3.1:8080/SonySportsTen3HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2051667728306.png" group-title="Sports", Sony Sports 5
 http://172.20.3.1:8080/SonySports5HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sports18%201%20HD.png" group-title="Sports", Sports 18
+http://172.20.3.1:8080/Sports181HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2011667750523.png" group-title="Sports", Star Sports 1
+http://172.20.3.1:8080/StarSports1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2021667750538.png" group-title="Sports", Star Sports 2
+http://172.20.3.1:8080/StarSports2HD/tracks-v1a1/mono.m3u8
