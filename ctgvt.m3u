@@ -43,3 +43,16 @@ http://172.20.3.1:8080/StarSports1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2021667750538.png" group-title="Sports", Star Sports 2
 http://172.20.3.1:8080/StarSports2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/StarSports%20Select%20HD1667750883.png" group-title="Sports", Star Sports Select 1
+http://172.20.3.1:8080/StarSportsSel1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%20Select%2021667750897.png" group-title="Sports", Star Sports Select 2
+http://172.20.3.1:8080/StarSportsSel2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Ten%20Cricket.png" group-title="Sports", Ten Cricket
+http://172.20.3.1:8080/TenCricket/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Ten%20Sports%20HD.png" group-title="Sports", Ten Sports
+http://172.20.3.1:8080/TenSportsHD/tracks-v1a1/mono.m3u8
+
