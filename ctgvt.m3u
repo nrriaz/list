@@ -5,3 +5,15 @@ http://172.20.3.1:8080/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/TSports1667821226.png" group-title="Sports", T Sports
 http://172.20.3.1:8080/TSportsHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Bein%20Sports%20Premium%2011667749733.png" group-title="Sports", bein Sports 1
+http://172.20.3.1:8080/beINSports/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Bein%20Sports%20Xtra%20N1667749705.png" group-title="Sports", bein Sports n
+http://172.20.3.1:8080/beINSports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Euro%20Sport%20HD.png" group-title="Sports", Euro Sports
+http://172.20.3.1:8080/EuroSportHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/A%20Sports%20HD.png" group-title="Sports", A Sports
+http://172.20.3.1:8080/ASportsHD/tracks-v1a1/mono.m3u8
+
