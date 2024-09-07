@@ -26,6 +26,6 @@ http://172.20.3.1:8080/PTVSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2011667728321.png" group-title="Sports", Sony Sports 1
 http://172.20.3.1:8080/SonySportsTen1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2011667728321.png" group-title="Sports", Sony Sports 2
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2021667728105.png" group-title="Sports", Sony Sports 2
 http://172.20.3.1:8080/SonySportsTen2HD/tracks-v1a1/mono.m3u8
 
