@@ -115,3 +115,32 @@ http://172.20.3.1:8080/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Zee%20Cinema%20HD1664974056.png" group-title="Entertainment", Zee Cinema HD
 http://172.20.3.1:8080/ZeeCinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/ATN%20News.png" group-title="Bangladeshi News", ATN News
+http://172.20.3.1:8080/ATNNews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Channel%20241664824751.png" group-title="Bangladeshi News", Channel 24
+http://172.20.3.1:8080/Channel24HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Independent%20TV1664976104.png" group-title="Bangladeshi News", Independent
+http://172.20.3.1:8080/IndependentTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Jamuna%20Tv1664825738.png" group-title="Bangladeshi News", Jamuna
+http://172.20.3.1:8080/JamunaTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/SomoyTV1689411430.png" group-title="Bangladeshi News", Somoy
+http://172.20.3.1:8080/SomoyTVHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Banglavision%20HD.png" group-title="Bangladeshi", Bangla Vision
+http://172.20.3.1:8080/BanglaVisionHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Channel%2091664824936.png" group-title="Bangladeshi", Channel 9
+http://172.20.3.1:8080/CHannel9HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Channel%20i1664976520.png" group-title="Bangladeshi", Channel I
+http://172.20.3.1:8080/ChannelIHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Masranga1667751530.png" group-title="Bangladeshi", Masranga
+http://172.20.3.1:8080/MasrangaTVHD/tracks-v1a1/mono.m3u8
+
