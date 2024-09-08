@@ -65,5 +65,8 @@ http://172.20.3.1:8080/BBCEaarthHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Lifestyle.png" group-title="Infotainment", BBC Lifestyle
 http://172.20.3.1:8080/BBCLifestyleHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Infotainment", Discovery
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Infotainment", Discovery English
 http://172.20.3.1:8080/DiscoveryHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOFLf39Qfvi_9CELaj2gcQpExtd9YCDzjef0IL2wwjLhUmTZEAOpvuBddUGK3kx67zwM2NGoIUR_SfXHQXpw-BsZa-rjNEFUQWIDPRJ-5LRok2oKSKex7iGmKoHK48ZwHjaaG4UALDwOLV/s320/dis.logo+final.02.png" group-title="Infotainment", Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
