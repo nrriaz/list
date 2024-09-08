@@ -85,3 +85,33 @@ http://172.20.3.1:8080/SonyYAY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Zoo%20Moo.png" group-title="Kids", ZooMoo
 http://172.20.3.1:8080/ZooMoo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20181123/zax/kisspng-logo-television-channel-design-image-watch-zoom-tv-live-streaming-online-in-trinidad-an-1713919249549.webp" group-title="Entertainment", Zoom
+http://172.20.3.1:8080/Zoom/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Enter10%20Bangla.png" group-title="Entertainment", enterr10 Bangla
+http://172.20.3.1:8080/Inter10Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/MBC5.png" group-title="Entertainment", MBC 5
+http://172.20.3.1:8080/MBC5HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20Max%20HD1667728133.png" group-title="Entertainment", Sony Max
+http://172.20.3.1:8080/SonyMAXHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20SAB1681564997.png" group-title="Entertainment", Sony SAB
+http://172.20.3.1:8080/SonySabHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Jalsha1664976894.png" group-title="Entertainment", Star Jalsha
+http://172.20.3.1:8080/StarJalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Plus1667751169.png" group-title="Entertainment", Star Plus
+http://172.20.3.1:8080/StarPlus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sun%20Bangla1664976074.png" group-title="Entertainment", Sun Bangla
+http://172.20.3.1:8080/SunBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Zee%20Bangla1664976875.png" group-title="Entertainment", Zee Bangla
+http://172.20.3.1:8080/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Zee%20Cinema%20HD1664974056.png" group-title="Entertainment", Zee Cinema HD
+http://172.20.3.1:8080/ZeeCinema/tracks-v1a1/mono.m3u8
