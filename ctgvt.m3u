@@ -68,6 +68,10 @@ http://172.20.3.1:8080/BBCLifestyleHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Infotainment", Discovery English
 http://172.20.3.1:8080/DiscoveryHD/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://172.20.2.5/we/assets/images/National%20Geography1664975151.png" group-title="Infotainment", Nat Geo HD
+https://cdn1.pishow.tv/live/252/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Travel%20XP1664976451.png" group-title="Infotainment", Travel XP
 http://172.20.3.1:8080/TravelXPHD/index.m3u8
 
