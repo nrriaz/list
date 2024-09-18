@@ -225,6 +225,72 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10741
 
 
 
-#EXTINF:-1, Entertainment+
-https://s1.sadman0.workers.dev/entplus.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Entertainment+", Star Jalsha SD
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/starjalsha.png" group-title="Entertainment+", Star Jalsha HD
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/116.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Entertainment+", Zee Bangla SD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla1/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Entertainment+", Zee Bangla HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Entertainment+", Colors Bangla
+http://217.20.112.199/colorsbangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/entertain.png" group-title="Entertainment+", Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Entertainment+", Zee Bangla Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Entertainment+", Sony Max
+http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/185.m3u8
+
+#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonyaath-live/revamp/channel_images/15_wah_0_2023_12_05_15_35_52.png" group-title="Entertainment+", Sony Wah
+http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/187.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="Entertainment+", Zee Cinema SD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema1/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="Entertainment+", Zee Cinema HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd1/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/andpicture.png" group-title="Entertainment+", And Pictures SD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures1/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/andpicture.png" group-title="Entertainment+", And Pictures HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png" group-title="Entertainment+", Zee TV SD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv1/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png" group-title="Entertainment+", Zee TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/starplus.png" group-title="Entertainment+", Star Plus HD
+http://217.20.112.199/starplushd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/stargold.png" group-title="Entertainment+", Star Gold HD
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
+
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="Entertainment+", Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlMp_lvJxQyDpmcovC66MJShchiUnb5cRm6xVtyVQXPr1ZxWTsQXbcFc&s=10" group-title="Entertainment+", Sheemaro Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2e8LNjHCh-fMGMHR9DKdVQpSFpQrWwQsYIA&usqp=CAU" group-title="Entertainment+", Movie Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Entertainment+", Jalsha Movies
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/117.m3u8
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/sonyath.png" group-title="Entertainment+", Sony Aath HD
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
