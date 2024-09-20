@@ -239,8 +239,6 @@ http://217.20.112.199/colorsbangla/index.m3u8
 #EXTINF:-1 tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Entertainment+", Zee Bangla Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Entertainment+", Sony Max
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/185.m3u8
 
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonyaath-live/revamp/channel_images/15_wah_0_2023_12_05_15_35_52.png" group-title="Entertainment+", Sony Wah
 http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/187.m3u8
