@@ -71,6 +71,12 @@ http://172.20.3.1:8080/DiscoveryHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Infotainment", Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180414/bse/kisspng-discovery-science-television-channel-logo-scientists-5ad21944049e05.3953494215237184680189.jpg" group-title="Infotainment", Discovery Science 
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Infotainment", Discovery Turbo 
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Travel%20XP1664976451.png" group-title="Infotainment", Travel XP
 http://172.20.3.1:8080/TravelXPHD/index.m3u8
@@ -89,6 +95,10 @@ http://172.20.3.1:8080/SonyYAY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Zoo%20Moo.png" group-title="Kids", ZooMoo
 http://172.20.3.1:8080/ZooMoo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png" group-title="Kids", Discovery Kids
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20181123/zax/kisspng-logo-television-channel-design-image-watch-zoom-tv-live-streaming-online-in-trinidad-an-1713919249549.webp" group-title="Entertainment", Zoom
 http://172.20.3.1:8080/Zoom/tracks-v1a1/mono.m3u8
