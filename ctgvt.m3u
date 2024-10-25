@@ -59,6 +59,9 @@ http://172.20.3.1:8080/TenSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://d3faj0w6aqatyx.cloudfront.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="Infotainment", Animal Planet
 http://172.20.3.1:8080/AnimalPlanetHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://d3faj0w6aqatyx.cloudfront.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="Infotainment", Animal Planet HD
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BBC%20Earth1664974852.png" group-title="Infotainment", BBC Earth
 http://172.20.3.1:8080/BBCEaarthHD/tracks-v1a1/mono.m3u8
 
