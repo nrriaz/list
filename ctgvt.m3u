@@ -6,7 +6,7 @@ http://172.20.3.1:8080/GaziTV/tracks-v1a1/mono.m3u8
 http://172.20.3.1:8080/TSportsHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Bein%20Sports%20Premium%2011667749733.png" group-title="Sports", bein Sports 1
-http://172.20.3.1:8080/beINSports1/index.m3u8
+http://172.20.3.1:8080/beINSports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/bein1.png" group-title="Sports", bein Sports 2
 http://172.20.3.1:8080/beINSports2/index.m3u8
