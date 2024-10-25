@@ -239,42 +239,7 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/hexa.m3u8?id=742
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi-Himel", Gazi TV HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10741
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi-Himel", T Sports
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10741
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://toffe.top/images/colorsbn.png" group-title="Entertainment+", Colors Bangla
-http://217.20.112.199/colorsbangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Entertainment+", Zee Bangla Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonyaath-live/revamp/channel_images/15_wah_0_2023_12_05_15_35_52.png" group-title="Entertainment+", Sony Wah
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/187.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://toffe.top/images/andpicture.png" group-title="Entertainment+", And Pictures SD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures1/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://toffe.top/images/andpicture.png" group-title="Entertainment+", And Pictures HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png" group-title="Entertainment+", Zee TV SD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv1/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png" group-title="Entertainment+", Zee TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://toffe.top/images/stargold.png" group-title="Entertainment+", Star Gold HD
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
 
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="Entertainment+", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -288,5 +253,3 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Entertainment+", Jalsha Movies
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/117.m3u8
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/sonyath.png" group-title="Entertainment+", Sony Aath HD
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
