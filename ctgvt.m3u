@@ -1,60 +1,63 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/A%20Sports%20HD.png" group-title="Sports", A Sports
+http://172.20.3.1:81/ASportsHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Bein%20Sports%20Xtra%20N1667749705.png" group-title="Sports", bein sports 1
+http://172.20.3.1:81/beINSportsXTRAHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Euro%20Sport.png" group-title="Sports", Euro Sports HD
+http://172.20.3.1:81/EuroSportHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Gazi%20Tv%2021661696120.png" group-title="Sports", GTV
-http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/TSports1667821226.png" group-title="Sports", T Sports
-http://172.20.3.1:8080/TSportsHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Bein%20Sports%20Premium%2011667749733.png" group-title="Sports", bein Sports 1
-http://172.20.3.1:8080/beINSports1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/bein1.png" group-title="Sports", bein Sports 2
-http://172.20.3.1:8080/beINSports2/index.m3u8
+http://172.20.3.1:81/GaziTVHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Euro%20Sport%20HD.png" group-title="Sports", Euro Sports
-http://172.20.3.1:8080/EuroSportHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/PremierSportsHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/A%20Sports%20HD.png" group-title="Sports", A Sports
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Premier%20Sports.png" group-title="Sports", Premier Sports
 http://172.20.3.1:8080/ASportsHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/PK-Premier%20Sports.png" group-title="Sports", Premier Sports
-http://172.20.3.1:8080/PremierSportsHD/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/PTV%20Sports1664972620.png" group-title="Sports", PTV
-http://172.20.3.1:8080/PTVSportsHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/PTVSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2011667728321.png" group-title="Sports", Sony Sports 1
-http://172.20.3.1:8080/SonySportsTen1/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/SonySportsTen1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2021667728105.png" group-title="Sports", Sony Sports 2
-http://172.20.3.1:8080/SonySportsTen2HD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/SonySportsTen2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2031667728117.png" group-title="Sports", Sony Sports 3
-http://172.20.3.1:8080/SonySportsTen3HD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/SonySportsTen3HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2051667728306.png" group-title="Sports", Sony Sports 5
-http://172.20.3.1:8080/SonySports5HD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/SonySports5HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sports18%201%20HD.png" group-title="Sports", Sports 18
-http://172.20.3.1:8080/Sports181HD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/Sports181HD/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2011667750523.png" group-title="Sports", Star Sports 1
-http://172.20.3.1:8080/StarSports1HD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/StarSports1HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2021667750538.png" group-title="Sports", Star Sports 2
-http://172.20.3.1:8080/StarSports2HD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/StarSports2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/StarSports%20Select%20HD1667750883.png" group-title="Sports", Star Sports Select 1
-http://172.20.3.1:8080/StarSportsSel1HD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/StarSportsSel1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%20Select%2021667750897.png" group-title="Sports", Star Sports Select 2
-http://172.20.3.1:8080/StarSportsSel2HD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/StarSportsSel2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/TSports1667821226.png" group-title="Sports", T Sports 1
+http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/TSports%2021668953490.png" group-title="Sports", T Sports 2
+http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Ten%20Cricket.png" group-title="Sports", Ten Cricket
-http://172.20.3.1:8080/TenCricket/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/TenCricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Ten%20Sports%20HD.png" group-title="Sports", Ten Sports
-http://172.20.3.1:8080/TenSportsHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/TenSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3faj0w6aqatyx.cloudfront.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="Infotainment", Animal Planet
 http://172.20.3.1:8080/AnimalPlanetHD/tracks-v1a1/mono.m3u8
