@@ -32,7 +32,7 @@ http://172.20.3.1:81/SonySportsTen3HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20TEN%2051667728306.png" group-title="Sports", Sony Sports 5
 http://172.20.3.1:81/SonySports5HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sports18%201%20HD.png" group-title="Sports", Sports 18
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sports18%201.png" group-title="Sports", Sports 18
 http://172.20.3.1:81/Sports181HD/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Sports%2011667750523.png" group-title="Sports", Star Sports 1
@@ -68,7 +68,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BBC%20Earth1664974852.png" group-title="Infotainment", BBC Earth
 http://172.20.3.1:81/BBCEaarthHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Lifestyle.png" group-title="Infotainment", BBC Lifestyle
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BBC%20Lifestyle.png" group-title="Infotainment", BBC Lifestyle
 http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Infotainment", Discovery English
@@ -161,7 +161,7 @@ http://172.20.3.1:81/ChannelS/tracks-v1a1/mono.m3u8
 http://172.20.3.1:81/DeeptoHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8" group-title="Bangladeshi", Ekhon TV
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BD-Ekhon%20TV1731466649.png" group-title="Bangladeshi", Ekhon TV
 http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Independent%20TV1664976104.png" group-title="Bangladeshi", Independent
