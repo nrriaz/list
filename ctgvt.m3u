@@ -60,19 +60,19 @@ http://172.20.3.1:81/TenCricket/tracks-v1a1/mono.m3u8
 http://172.20.3.1:81/TenSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3faj0w6aqatyx.cloudfront.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="Infotainment", Animal Planet
-http://172.20.3.1:8080/AnimalPlanetHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/AnimalPlanetHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3faj0w6aqatyx.cloudfront.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="Infotainment", Animal Planet HD
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BBC%20Earth1664974852.png" group-title="Infotainment", BBC Earth
-http://172.20.3.1:8080/BBCEaarthHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/BBCEaarthHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Lifestyle.png" group-title="Infotainment", BBC Lifestyle
-http://172.20.3.1:8080/BBCLifestyleHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Infotainment", Discovery English
-http://172.20.3.1:8080/DiscoveryHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/DiscoveryHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Infotainment", Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
@@ -91,135 +91,96 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Travel%20XP1664976451.png" group-title="Infotainment", Travel XP
-http://172.20.3.1:8080/TravelXPHD/index.m3u8
+http://172.20.3.1:81/TravelXPHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BBC%20Cbeebies%20HD.png" group-title="Kids", CBeebies
-http://172.20.3.1:8080/BBCCbeebiesHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/BBCCbeebiesHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Disney%20JR1664825395.png" group-title="Kids", Disney Junior
+http://172.20.3.1:81/Disney/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Duronto1665400494.png" group-title="Kids", Duronto
-http://172.20.3.1:8080/DurontoTVHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/DurontoTVHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Nick%20HD1664976992.png" group-title="Kids", Nick
-http://172.20.3.1:8080/NickBNG/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/NickBNG/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20YAY1667728254.png" group-title="Kids", Sony YaY
-http://172.20.3.1:8080/SonyYAY/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Zoo%20Moo.png" group-title="Kids", ZooMoo
-http://172.20.3.1:8080/ZooMoo/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/SonyYAY/tracks-a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png" group-title="Kids", Discovery Kids
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20181123/zax/kisspng-logo-television-channel-design-image-watch-zoom-tv-live-streaming-online-in-trinidad-an-1713919249549.webp" group-title="Entertainment", Zoom
-http://172.20.3.1:8080/Zoom/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Enter10%20Bangla.png" group-title="Entertainment", enterr10 Bangla
-http://172.20.3.1:8080/Inter10Bangla/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/MBC5.png" group-title="Entertainment", MBC 5
-http://172.20.3.1:8080/MBC5HD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/MBC5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20Max%20HD1667728133.png" group-title="Entertainment", Sony Max
-http://172.20.3.1:8080/SonyMAXHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20SAB1681564997.png" group-title="Entertainment", Sony SAB
-http://172.20.3.1:8080/SonySabHD/index.m3u8
+http://172.20.3.1:81/SonySabHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Jalsha1664976894.png" group-title="Entertainment", Star Jalsha
-http://172.20.3.1:8080/StarJalsha/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/StarJalsha/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Star%20Plus1667751169.png" group-title="Entertainment", Star Plus
-http://172.20.3.1:8080/StarPlus/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sun%20Bangla1664976074.png" group-title="Entertainment", Sun Bangla
-http://172.20.3.1:8080/SunBangla/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Zee%20Bangla1664976875.png" group-title="Entertainment", Zee Bangla
-http://172.20.3.1:8080/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Zee%20Cinema%20HD1664974056.png" group-title="Entertainment", Zee Cinema HD
-http://172.20.3.1:8080/ZeeCinema/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/ATN%20News.png" group-title="Bangladeshi News", ATN News
-http://172.20.3.1:8080/ATNNews/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Channel%20241664824751.png" group-title="Bangladeshi News", Channel 24
-http://172.20.3.1:8080/Channel24HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Independent%20TV1664976104.png" group-title="Bangladeshi News", Independent
-http://172.20.3.1:8080/IndependentTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Jamuna%20Tv1664825738.png" group-title="Bangladeshi News", Jamuna
-http://172.20.3.1:8080/JamunaTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/SomoyTV1689411430.png" group-title="Bangladeshi News", Somoy
-http://172.20.3.1:8080/SomoyTVHD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BD-Asian%20TV1731519990.png" group-title="Bangladeshi", Asian TV
+http://172.20.3.1:81/AsianTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Banglavision%20HD.png" group-title="Bangladeshi", Bangla Vision
-http://172.20.3.1:8080/BanglaVisionHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/BanglaVisionHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Channel%20241664824751.png" group-title="Bangladeshi", Channel 24
+http://172.20.3.1:81/Channel24HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Channel%2091664824936.png" group-title="Bangladeshi", Channel 9
-http://172.20.3.1:8080/CHannel9HD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/CHannel9HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Channel%20i1664976520.png" group-title="Bangladeshi", Channel I
-http://172.20.3.1:8080/ChannelIHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/ChannelIHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BD-Channel%20S1731598946.png" group-title="Bangladeshi", S Bangla
+http://172.20.3.1:81/ChannelS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BD-Deepto%20Tv1676377276.png" group-title="Bangladeshi", Deepto
+http://172.20.3.1:81/DeeptoHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8" group-title="Bangladeshi", Ekhon TV
+http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Independent%20TV1664976104.png" group-title="Bangladeshi", Independent
+http://172.20.3.1:81/IndependentTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Jamuna%20Tv1664825738.png" group-title="Bangladeshi", Jamuna TV
+http://172.20.3.1:81/JamunaTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Masranga1667751530.png" group-title="Bangladeshi", Masranga
-http://172.20.3.1:8080/MasrangaTVHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/MasrangaTVHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BD-Nagorik%20Tv1725785084.png" group-title="Bangladeshi", Nagorik TV
+http://172.20.3.1:81/NagorikTVHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BD-News%20241664826177.png" group-title="Bangladeshi", News 24
+http://172.20.3.1:81/News24HD/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks&s=10" group-title="Bangladeshi-Himel", Jamuna TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Bangladeshi-Himel", Channel 24
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUL1AKfua_foATC6f3zcjN1oyZmhFWHp1MCw&s" group-title="Bangladeshi-Himel", Somoy TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@somoynews360
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Desh_tv_logo.jpg/640px-Desh_tv_logo.jpg" group-title="Bangladeshi-Himel", Desh TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@livedeshtv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladeshi-Himel", Ekhon TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ekhontv
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB_eHy7TI4EHWe_DqmJhsmELKe9FsUP69qGlrZrv0SF3AT1z155zQvLU&s=10" group-title="Bangladeshi-Himel", Channel I HD
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ChanneliNews
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi-Himel", DBC News
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@dbcnewstv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladeshi-Himel", Independent TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@IndependentTelevision
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi-Himel", Ekushey TV
-https://ekusheyserver.com/etvlivesn.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi-Himel", Ekattor TV
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/p1uiop-himu.m3u8?id=55306
-
-#EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladeshi-Himel", News 24 HD
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@news24television90
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladeshi-Himel", NTV BD
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@NTVDigitalLive
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladeshi-Himel", RTV HD
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@RtvNews
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladeshi-Himel", Bangla TV
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/p1uiop-himu.m3u8?id=34573
-
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/SomoyTV1689411430.png" group-title="Bangladeshi", Somoy TV
+http://172.20.3.1:81/SomoyTVHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="Entertainment+", Bollywood HD
