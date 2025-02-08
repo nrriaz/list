@@ -60,8 +60,6 @@ http://172.20.3.1:81/TenSportsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://d3faj0w6aqatyx.cloudfront.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="Infotainment", Animal Planet
 http://172.20.3.1:81/AnimalPlanetHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://d3faj0w6aqatyx.cloudfront.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="Infotainment", Animal Planet HD
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BBC%20Earth1664974852.png" group-title="Infotainment", BBC Earth
 http://172.20.3.1:81/BBCEaarthHD/tracks-v1a1/mono.m3u8
@@ -69,23 +67,8 @@ http://172.20.3.1:81/BBCEaarthHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/BBC%20Lifestyle.png" group-title="Infotainment", BBC Lifestyle
 http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Infotainment", Discovery English
+#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Infotainment", Discovery
 http://172.20.3.1:81/DiscoveryHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Discovery1664975007.png" group-title="Infotainment", Discovery Bangla
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180414/bse/kisspng-discovery-science-television-channel-logo-scientists-5ad21944049e05.3953494215237184680189.jpg" group-title="Infotainment", Discovery Science 
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Infotainment", Discovery Turbo 
-https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Infotainment", Discovery Investigation 
-https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/09/TLC_logo-1024x576.png" group-title="Infotainment", TLC 
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Travel%20XP1664976451.png" group-title="Infotainment", Travel XP
@@ -106,8 +89,6 @@ http://172.20.3.1:81/NickBNG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Sony%20YAY1667728254.png" group-title="Kids", Sony YaY
 http://172.20.3.1:81/SonyYAY/tracks-a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png" group-title="Kids", Discovery Kids
-https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Enter10%20Bangla.png" group-title="Entertainment", enterr10 Bangla
 http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
@@ -180,16 +161,4 @@ http://172.20.3.1:81/News24HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/SomoyTV1689411430.png" group-title="Bangladeshi", Somoy TV
 http://172.20.3.1:81/SomoyTVHD/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="Entertainment+", Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlMp_lvJxQyDpmcovC66MJShchiUnb5cRm6xVtyVQXPr1ZxWTsQXbcFc&s=10" group-title="Entertainment+", Sheemaro Bollywood
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2e8LNjHCh-fMGMHR9DKdVQpSFpQrWwQsYIA&usqp=CAU" group-title="Entertainment+", Movie Club
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Entertainment+", Jalsha Movies
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/117.m3u8
 
