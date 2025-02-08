@@ -11,11 +11,9 @@ http://172.20.3.1:81/EuroSportHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Gazi%20Tv%2021661696120.png" group-title="Sports", GTV
 http://172.20.3.1:81/GaziTVHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Euro%20Sport%20HD.png" group-title="Sports", Euro Sports
-http://172.20.3.1:81/PremierSportsHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/Premier%20Sports.png" group-title="Sports", Premier Sports
-http://172.20.3.1:8080/ASportsHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/PremierSportsHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.20.3.1/assets/images/PTV%20Sports1664972620.png" group-title="Sports", PTV
 http://172.20.3.1:81/PTVSportsHD/index.m3u8
